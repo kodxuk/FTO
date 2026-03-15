@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Assyst Auto-Return ITSM
-// @namespace    https://openuserjs.org/scripts/kodx/AssystAuto-ReturnITSM
+// @namespace    https://github.com/kodxuk/FTO
 // @version      3.37.35
-// @updateURL    https://openuserjs.org/meta/kodx/AssystAuto-ReturnITSM.meta.js
-// @downloadURL  https://openuserjs.org/install/kodx/AssystAuto-ReturnITSM.user.js
+// @updateURL    https://raw.githubusercontent.com/kodxuk/FTO/main/Assyst%20Auto-Return%20ITSM.user.js
+// @downloadURL  https://raw.githubusercontent.com/kodxuk/FTO/main/Assyst%20Auto-Return%20ITSM.user.js
 // @description  Reliable auto-return to last visited ITSM page with Loop Protection, Enhanced Locking, Watchdog, Server Health Monitoring, EventMonitor Refresh Detection, Session Timeout Prediction.
 // @author       kodx
 // @copyright    2025, kodx 
