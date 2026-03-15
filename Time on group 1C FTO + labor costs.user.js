@@ -2,8 +2,8 @@
 // @name         Time on group 1C FTO + labor costs
 // @namespace    https://github.com/kodxuk/FTO
 // @version      1.49
-// @updateURL    https://raw.githubusercontent.com/kodxuk/FTO/main/Time%20on%20group%201C%20FTO%20%2B%20labor%20costs.js
-// @downloadURL  https://raw.githubusercontent.com/kodxuk/FTO/main/Time%20on%20group%201C%20FTO%20%2B%20labor%20costs.js
+// @updateURL    https://raw.githubusercontent.com/kodxuk/FTO/main/Time%20on%20group%201C%20FTO%20%2B%20labor%20costs.user.js
+// @downloadURL  https://raw.githubusercontent.com/kodxuk/FTO/main/Time%20on%20group%201C%20FTO%20%2B%20labor%20costs.user.js
 // @description  Tracks time in "1C FTO" group. Logic from 1.32 + 8x5/9x5 SLA, RF holidays 2026, fixed SLA actual target, proper badge color on closed incidents, dark mode UI, SLA %, responsive, no pulse animation.
 // @author       kodx
 // @copyright    2026, kodx
