@@ -2,8 +2,8 @@
 // @name         Time on group 1C FTO + labor costs
 // @namespace    https://openuserjs.org/scripts/kodx./Time_on_group_1C_FTO_+_labor_costs
 // @version      1.52
-// @updateURL    https://openuserjs.org/meta/kodx./Time_on_group_1C_FTO_+_labor_costs.meta.js
-// @downloadURL  https://openuserjs.org/install/kodx./Time_on_group_1C_FTO_+_labor_costs.user.js
+// @updateURL    https://raw.githubusercontent.com/kodxuk/FTO/main/Time%20on%20group%201C%20FTO%20%2B%20labor%20costs.user.js
+// @downloadURL  https://raw.githubusercontent.com/kodxuk/FTO/main/Time%20on%20group%201C%20FTO%20%2B%20labor%20costs.user.js
 // @description  Tracks time in "1C FTO" group. v1.52 adds quick-reply buttons for ticket actions and keeps log export.
 // @author       kodx
 // @copyright    2026, kodx
