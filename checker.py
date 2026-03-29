@@ -2,7 +2,7 @@ import requests
 import time
 import concurrent.futures
 
-# 1.
+# 1. Ссылка на список прокси
 GITHUB_URL = "https://github.com/kodxuk/FTO/raw/refs/heads/main/socks5.txt"
 
 # 2. Сайт, к которому измеряем пинг 
@@ -74,3 +74,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # Эта строка не даст консоли закрыться, пока пользователь не нажмет Enter
+    input("\nНажмите Enter для выхода...")
