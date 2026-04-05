@@ -2,8 +2,8 @@
 // @name         Time on group 1C FTO + labor costs
 // @namespace    https://github.com/kodxuk/FTO
 // @version      1.62
-// @updateURL    https://raw.githubusercontent.com/kodxuk/FTO/main/Time%20on%20group%201C%20FTO%20%2B%20labor%20costs.user.js
-// @downloadURL  https://raw.githubusercontent.com/kodxuk/FTO/main/Time%20on%20group%201C%20FTO%20%2B%20labor%20costs.user.js
+// @updateURL    https://raw.githubusercontent.com/kodxuk/FTO/main/Time%20on%20group%201C%20FTO%20%2B%20labor%20costs_beta_test.user.js
+// @downloadURL  https://raw.githubusercontent.com/kodxuk/FTO/main/Time%20on%20group%201C%20FTO%20%2B%20labor%20costs_beta_test.user.js
 // @description  Tracks time in "1C FTO" group. v1.62 fixes observer lifecycle, adds revision stamp, recalibrates classifier-alias weights.
 // @author       kodx
 // @copyright    2026, kodx
