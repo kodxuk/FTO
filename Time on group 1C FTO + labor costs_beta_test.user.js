@@ -2,8 +2,8 @@
 // @name         Time on group 1C FTO + labor costs
 // @namespace    https://github.com/kodxuk/FTO
 // @version      1.64
-// @updateURL    https://raw.githubusercontent.com/kodxuk/FTO/main/Time%20on%20group%201C%20FTO%20%2B%20labor%20costs.user.js
-// @downloadURL  https://raw.githubusercontent.com/kodxuk/FTO/main/Time%20on%20group%201C%20FTO%20%2B%20labor%20costs.user.js
+// @updateURL    https://raw.githubusercontent.com/kodxuk/FTO/main/Time%20on%20group%201C%20FTO%20%2B%20labor%20costs_beta_test.user.js
+// @downloadURL  https://raw.githubusercontent.com/kodxuk/FTO/main/Time%20on%20group%201C%20FTO%20%2B%20labor%20costs_beta_test.user.js
 // @description  Tracks time in "1C FTO" group. v1.64 fixes labor-cost autofill, adds periodic ticker for dynamic time, dialog observer for action popups.
 // @author       kodx
 // @copyright    2026, kodx
