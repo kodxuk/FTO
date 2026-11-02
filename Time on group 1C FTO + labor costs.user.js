@@ -4,7 +4,7 @@
 // @version      1.66
 // @updateURL    https://raw.githubusercontent.com/kodxuk/FTO/main/Time%20on%20group%201C%20FTO%20%2B%20labor%20costs.user.js
 // @downloadURL  https://raw.githubusercontent.com/kodxuk/FTO/main/Time%20on%20group%201C%20FTO%20%2B%20labor%20costs.user.js
-// @description  Tracks time in "1C FTO" group. v1.66 добавлена фоновая телеметрия версии скрипта для Telegram-мониторинга запуска программы.
+// @description  Tracks time in "1C FTO" group.
 // @author       kodx
 // @copyright    2026, kodx
 // @match        https://itsm.cherkizovsky.net/*
